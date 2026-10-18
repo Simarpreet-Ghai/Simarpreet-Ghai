@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Fourth-year Computer Engineering student at Toronto Metropolitan University, based in Brampton, Ontario. I build software, data pipelines, and backend systems, with a focus on making things reliable, testable, and easier to debug.<br><br>- 💻 Looking for **2027 internships** in software, backend, or data engineering<br>- 🐛 I enjoy debugging the weird stuff (mismatched records, edge cases, broken assumptions) and building tools that automate those checks<br>- 📍 Open to opportunities across the GTA, remote, or relocation<br>- ✉️ simarpreetghai25@gmail.com · [LinkedIn](https://linkedin.com/in/simarpreetghai)</p>
+<p data-importer="text" align="left">Fourth-year Computer Engineering student at Toronto Metropolitan University, based in Brampton, Ontario. I build software, data pipelines, and backend systems, with a focus on making things reliable, testable, and easier to debug.<br><br>- 💻 Looking for **2027 internships** in software, backend, or data engineering<br><br>- 🐛 I enjoy debugging the weird stuff (mismatched records, edge cases, broken assumptions) and building tools that automate those checks<br><br>- 📍 Open to opportunities across the GTA, remote, or relocation<br><br>- Email: simarpreetghai25@gmail.com · LinkedIn: (https://www.linkedin.com/in/simarpreetghai)</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🛠️ Spent two years at Enlance Marketing fixing client website bugs, testing changes, and writing small Python and SQL scripts to automate checks and keep issue data organized<br>- 🚁 Currently working on my capstone: a smart city drone delivery system, where I'm designing how requests are prioritized and tracked<br>- 🎯 Goal: build something real users can depend on during a 2027 internship<br>- ⚡ Fun fact: my 3-person team built and demoed a working paint app in 12 hours at the MUES Hackathon</p>
+<p data-importer="text" align="left">- 🛠️ Spent two years at Enlance Marketing fixing client website bugs, testing changes, and writing small Python and SQL scripts to automate checks and keep issue data organized<br><br>- 🚁 Currently working on my capstone: a smart city drone delivery system, where I'm designing how requests are prioritized and tracked<br><br>- 🎯 Goal: build something real users can depend on during a 2027 internship<br><br>- ⚡ Fun fact: my 3-person team built and demoed a working paint app in 12 hours at the MUES Hackathon</p>
 
 ###
 
