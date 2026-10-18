@@ -66,9 +66,3 @@
 </div>
 
 ###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Simarpreet-Ghai.Simarpreet-Ghai&left_color=blue&right_color=blue&left_text=Visitors"  />
-</div>
-
-###
