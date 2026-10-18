@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Fourth-year Computer Engineering student at Toronto Metropolitan University, based in Brampton, Ontario. I build software, data pipelines, and backend systems, with a focus on making things reliable, testable, and easier to debug.<br><br>- 💻 Looking for **2027 internships** in software, backend, or data engineering<br><br>- 🐛 I enjoy debugging the weird stuff (mismatched records, edge cases, broken assumptions) and building tools that automate those checks<br><br>- 📍 Open to opportunities across the GTA, remote, or relocation<br><br>- Email: simarpreetghai25@gmail.com · LinkedIn: (https://www.linkedin.com/in/simarpreetghai)</p>
+<p data-importer="text" align="left">Fourth-year Computer Engineering student at Toronto Metropolitan University, based in Brampton, Ontario. I build software, data pipelines, and backend systems, with a focus on making things reliable, testable, and easier to debug.<br><br>- 💻 Looking for **2027 internships** in software, backend, or data engineering<br><br>- 🐛 I enjoy debugging the weird stuff (mismatched records, edge cases, broken assumptions) and building tools that automate those checks<br><br>- 📍 Open to opportunities across the GTA, remote, or relocation</p>
 
 ###
 
